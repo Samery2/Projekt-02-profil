@@ -99,18 +99,19 @@ h1 {
   background-color:  #3b5998;
 }
 
+
 .twitter a:hover,
 .twitter a:focus,
 .twitter a:active {
   background-color:  #1da1f2;
 }
 
-.logo {
+.logo{
   background-color: #b92e81;
   border-radius: 50%;
   position: absolute; 
-  top: 255px;
-  left: 320px;
+  top:  255px;
+  left:  320px;
 }
 
 
